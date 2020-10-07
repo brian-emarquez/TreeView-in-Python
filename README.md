@@ -13,4 +13,4 @@
   </a> 
 </p>
   
-![python](./Images/Captura1.png)
+![python](./images/Captura1.png)
